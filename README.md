@@ -1,8 +1,7 @@
 # Xernian Soldier Betrayal Prediction System
 
 ## Overview
-![alt text](<Screenshot 2024-09-23 221647.png>)
-![alt text](<Screenshot 2024-09-23 221706.png>)
+![alt text](<Screenshot 2024-09-23 221706.png>) ![alt text](<Screenshot 2024-09-23 221647.png>)
 
 This project aims to predict the likelihood of a soldier betraying the Xernian clan based on various factors. The system is built using machine learning models and provides a user-friendly interface for predictions.
 
